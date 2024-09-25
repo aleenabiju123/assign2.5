@@ -1,0 +1,24 @@
+.box{
+    border: 2px solid black;
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 3%;
+}
+.aa{
+    border: 2px solid black;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5%;
+    
+}
+.pic{
+    text-align: center;
+    margin-top: 7%;
+    font-family: cursive;
+}
+
+
+
+
